@@ -1,4 +1,4 @@
-# Network Scanner
+# Chakra_Recon
 
 A command-line tool for analyzing hosts on a network using various scanning techniques including ICMP echo requests, TCP port scanning, and ARP scanning. This tool is designed for network administrators and security professionals to assess network configurations and identify potential vulnerabilities.
 
@@ -22,7 +22,7 @@ A command-line tool for analyzing hosts on a network using various scanning tech
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/yourusername/network-scanner.git
+https://github.com/Aditya-6824/Chakra_Recon.git
 cd network-scanner
 ```
 
@@ -102,3 +102,4 @@ network-scanner/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
